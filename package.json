@@ -1,0 +1,29 @@
+{
+  "name": "@brainsbeards/react-native-better-dynamic-island",
+  "version": "0.0.1",
+  "description": "React Native library for communicating with Dynamic Island ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brains-and-beards/react-native-better-dynamic-island.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "dynamic",
+    "island"
+  ],
+  "author": "Brains & Beards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brains-and-beards/react-native-better-dynamic-island/issues"
+  },
+  "homepage": "https://github.com/brains-and-beards/react-native-better-dynamic-island#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
